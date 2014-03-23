@@ -1,6 +1,6 @@
 Welcome to pyGameScanner!
 =====================
-[![Code Health](https://landscape.io/github/akshetpandey/GameServerFinder/master/landscape.png)](https://landscape.io/github/akshetpandey/GameServerFinder/master)
+[![Code Health](https://landscape.io/github/akshetpandey/pyGameScanner/master/landscape.png)](https://landscape.io/github/akshetpandey/pyGameScanner/master)
 
 This code, written in python, scans the LAN and locates all multiplayer games that are running in in efficient and more importantly fast manner. The idea is to facilitate multiplayer gaming by showing available servers that a player can join.
 
